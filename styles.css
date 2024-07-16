@@ -1,1 +1,55 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 48px;
+  margin: 30px 0 0;
+  color: #272044;
+}
+
+p {
+  text-align: left;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p.strong {
+  background-color: white;
+  color: #ff0000;
+}
+
+.current-weather {
+  background-color: white;
+  color: #272044;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 5px;
+}
+
+.weather-figures {
+  display: left;
+  background-color: white;
+  color: #272044;
+  font-size: 24px;
+  font-weight: lighter;
+  padding: 10px;
+  margin: 5px;
+}
+
+.current-temperature {
+  display: flex;
+  justify-content: right;
+  text-align: top;
+  background-color: white;
+  color: #272044;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 5px;
+}
 
